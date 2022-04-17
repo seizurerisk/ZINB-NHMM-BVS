@@ -2,6 +2,6 @@
 
 This code implements the zero inflated negative binomial non-homogeneous hidden Markov model with Bayesian variable selection (ZINB-NHMM-BVS) for modeling of discrete seizure risk states from zero-inflated count data and simultaneously measured time-varying covariates.
 
-Citation: Wang ET, Chiang S, Haneef Z, Rao VR, Moss R, Vannucci M. Bayesian Non-Homogeneous Hidden Markov Model with Variable Selection for Investigating Drivers of Seizure Risk Cycling. Annals of Applied Statistics, 2022 (in press). 
+Citation: Wang ET, Chiang S, Haneef Z, Rao VR, Moss R, Vannucci M. Bayesian non-homogeneous hidden Markov model with variable selection for investigating drivers of seizure risk cycling. Annals of Applied Statistics, 2022 (in press). 
 
-Code requests: Contact seizurerisk@gmail.com.
+To access code: Please submit requests to seizurerisk@gmail.com.
